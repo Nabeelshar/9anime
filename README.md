@@ -1,4 +1,6 @@
 # 9anime
+
+![image](https://github.com/Nabeelshar/9anime/blob/main/Blogger%20Template.png?raw=true)
 9anime theme
 9Anime Blogger Template is slick and clean, as well as a stunning UX/UI that makes visitors feel more comfortable and longer watching. Packed with standard features to create your dream anime streaming site.
 
