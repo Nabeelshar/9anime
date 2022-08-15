@@ -1,4 +1,4 @@
-# 9anime
+# 9anime Theme
 
 ![image](https://github.com/Nabeelshar/9anime/blob/main/Blogger%20Template.png?raw=true)
 9anime theme
